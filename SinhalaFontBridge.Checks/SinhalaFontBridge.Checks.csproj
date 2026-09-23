@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SinhalaFontBridge.Core\SinhalaFontBridge.Core.csproj" />
+    <None Include="test_cases.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="open_sl_fixtures.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+</Project>

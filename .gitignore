@@ -1,0 +1,33 @@
+# Build and package output
+**/bin/
+**/obj/
+/release/
+/artifacts/
+/TestResults/
+
+# Local IDE and user configuration
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.csproj.user
+
+# Research checkouts and local QA captures
+/research/
+/vendor/
+/qa-*.png
+
+# Local credentials, caches, and temporary files
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+Thumbs.db
+.DS_Store

@@ -1,0 +1,208 @@
+{
+  "dl_manel": {
+    "decode": [
+      {
+        "input": "wdKavql%u jHjia:dj",
+        "expected": "ආණ්ඩුක්‍රම ව්‍යවස්ථාව"
+      },
+      {
+        "input": "Y%S ,xld",
+        "expected": "ශ්‍රී ලංකා"
+      },
+      {
+        "input": "rvQ[E m@n`j~",
+        "expected": "රඩූඤෑ ප?බ`ව~"
+      },
+      {
+        "input": "o<od ud,s.dj",
+        "expected": "දළදා මාලිගාව"
+      },
+      {
+        "input": "fYa% ff,l",
+        "expected": "ශ්‍රේ ෙලෙක"
+      },
+      {
+        "input": "wïud",
+        "expected": "අම්මා"
+      },
+      {
+        "input": "ff;% fVHda ;= m% %s fka",
+        "expected": "ත්‍රෛ ඪ්‍යෝ තු ප්‍ර ්‍රි නේ"
+      },
+      {
+        "input": "a`N~dEkYm v&vs~}`v",
+        "expected": "්`භ~ාෑනශප ඩ)ඩි~}`ඩ"
+      }
+    ],
+    "encode": [
+      {
+        "input": "ශ්‍රී ලංකා",
+        "expected": "Y%S ,xld"
+      },
+      {
+        "input": "ආණ්ඩුක්‍රම ව්‍යවස්ථාව",
+        "expected": "wdKavql%u jHjia:dj"
+      },
+      {
+        "input": "සිංහල අකුරු",
+        "expected": "isxy, wl=re"
+      },
+      {
+        "input": "රවිඳු මනොජ්",
+        "expected": "rú÷ ufkdÊ"
+      },
+      {
+        "input": "අම්මා",
+        "expected": "wïud"
+      },
+      {
+        "input": "දළදා මාලිගාව",
+        "expected": "o<od ud,s.dj"
+      },
+      {
+        "input": "කෙ කැ කෝ ක්‍රි",
+        "expected": "fl le flda l%s"
+      }
+    ]
+  },
+  "kaputa": {
+    "decode": [
+      {
+        "input": "wdKavql%u jHjia:dj",
+        "expected": "තඩඛඅවදල%උ ජෑජඉඅඃඩජ"
+      },
+      {
+        "input": "Y%S ,xld",
+        "expected": "්‍ර%ූ ,භලඩ"
+      },
+      {
+        "input": "rvQ[E m@n`j~",
+        "expected": "රවිඳු මනොජ්"
+      },
+      {
+        "input": "o<od ud,s.dj",
+        "expected": "ඔ<ඔඩ උඩ,ස.ඩජ"
+      },
+      {
+        "input": "fYa% ff,l",
+        "expected": "ෆ්‍රඅ% ෆෆ,ල"
+      },
+      {
+        "input": "wïud",
+        "expected": "තïඋඩ"
+      },
+      {
+        "input": "ff;% fVHda ;= m% %s fka",
+        "expected": "ෆෆෂ% ෆඬෑඩඅ ෂ= ම% %ස ෆකඅ"
+      },
+      {
+        "input": "a`N~dEkYm v&vs~}`v",
+        "expected": "ආණ්ඩුක්‍රම ව්‍යවස්ථාව"
+      }
+    ],
+    "encode": [
+      {
+        "input": "ශ්‍රී ලංකා",
+        "expected": "XYW lAk`"
+      },
+      {
+        "input": "ආණ්ඩුක්‍රම ව්‍යවස්ථාව",
+        "expected": "a`N~dEkYm v&vs~}`v"
+      },
+      {
+        "input": "සිංහල අකුරු",
+        "expected": "sQAhl akOr#"
+      },
+      {
+        "input": "රවිඳු මනොජ්",
+        "expected": "rvQ[E m@n`j~"
+      },
+      {
+        "input": "අම්මා",
+        "expected": "am|m`"
+      },
+      {
+        "input": "දළදා මාලිගාව",
+        "expected": "qLq` m`lQg`v"
+      },
+      {
+        "input": "කෙ කැ කෝ ක්‍රි",
+        "expected": "@k k# @k`~ kYQ"
+      }
+    ]
+  },
+  "amalee": {
+    "decode": [
+      {
+        "input": "wdKavql%u jHjia:dj",
+        "expected": "ආණ්ඩුක්‍රම ව්‍යවස්ථාව"
+      },
+      {
+        "input": "Y%S ,xld",
+        "expected": "ශ්‍රී ලංකා"
+      },
+      {
+        "input": "rvQ[E m@n`j~",
+        "expected": "රඩූඤෑ ප@බ`ව~"
+      },
+      {
+        "input": "o<od ud,s.dj",
+        "expected": "දළදා මාලිගාව"
+      },
+      {
+        "input": "fYa% ff,l",
+        "expected": "ශේ්‍ර ෙලෙක"
+      },
+      {
+        "input": "wïud",
+        "expected": "අම්මා"
+      },
+      {
+        "input": "ff;% fVHda ;= m% %s fka",
+        "expected": "ත්‍රෛ ඪ්‍යෝ තු ප්‍ර ්‍රි නේ"
+      },
+      {
+        "input": "a`N~dEkYm v&vs~}`v",
+        "expected": "්`භ~ාෑනශප ඩ-ඩි~}`ඩ"
+      }
+    ],
+    "encode": []
+  },
+  "thibus": {
+    "decode": [
+      {
+        "input": "wdKavql%u jHjia:dj",
+        "expected": "wdKavql%u jHjia:dj"
+      },
+      {
+        "input": "Y%S ,xld",
+        "expected": "Y%S ,xld"
+      },
+      {
+        "input": "rvQ[E m@n`j~",
+        "expected": "rvQෟE m@nැjරූ"
+      },
+      {
+        "input": "o<od ud,s.dj",
+        "expected": "oවod ud,s.dj"
+      },
+      {
+        "input": "fYa% ff,l",
+        "expected": "fYa% ff,l"
+      },
+      {
+        "input": "wïud",
+        "expected": "wïud"
+      },
+      {
+        "input": "ff;% fVHda ;= m% %s fka",
+        "expected": "ff;% fVHda ;= m% %s fka"
+      },
+      {
+        "input": "a`N~dEkYm v&vs~}`v",
+        "expected": "aැNරූdEkYm vසvsරූළැv"
+      }
+    ],
+    "encode": []
+  }
+}

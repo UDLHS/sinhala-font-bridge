@@ -1,0 +1,3300 @@
+{
+  "id": "kaputa",
+  "fontName": "kaputadotcom",
+  "aliases": [
+    "Kaputa"
+  ],
+  "source": "https://github.com/Open-SL/sinhala-unicode-converter",
+  "decodeSteps": [
+    {
+      "pattern": "@@wY",
+      "replacement": "ත්‍රෛ"
+    },
+    {
+      "pattern": "@@X",
+      "replacement": "ශෛ"
+    },
+    {
+      "pattern": "@@c",
+      "replacement": "චෛ"
+    },
+    {
+      "pattern": "@@j",
+      "replacement": "ජෛ"
+    },
+    {
+      "pattern": "@@n",
+      "replacement": "නෛ"
+    },
+    {
+      "pattern": "@@k",
+      "replacement": "කෛ"
+    },
+    {
+      "pattern": "@@m",
+      "replacement": "මෛ"
+    },
+    {
+      "pattern": "@@p",
+      "replacement": "පෛ"
+    },
+    {
+      "pattern": "@@q",
+      "replacement": "දෛ"
+    },
+    {
+      "pattern": "@@w",
+      "replacement": "තෛ"
+    },
+    {
+      "pattern": "@@{",
+      "replacement": "ධෛ"
+    },
+    {
+      "pattern": "@@v",
+      "replacement": "වෛ"
+    },
+    {
+      "pattern": "@pY_",
+      "replacement": "ප්‍රෞ"
+    },
+    {
+      "pattern": "@;&`~",
+      "replacement": "ෂ්‍යෝ"
+    },
+    {
+      "pattern": "@C&`~",
+      "replacement": "ඡ්‍යෝ"
+    },
+    {
+      "pattern": "@D&`~",
+      "replacement": "ඪ්‍යෝ"
+    },
+    {
+      "pattern": "@G&`~",
+      "replacement": "ඝ්‍යෝ"
+    },
+    {
+      "pattern": "@K&`~",
+      "replacement": "ඛ්‍යෝ"
+    },
+    {
+      "pattern": "@L&`~",
+      "replacement": "ළ්‍යෝ"
+    },
+    {
+      "pattern": "@P&`~",
+      "replacement": "ඵ්‍යෝ"
+    },
+    {
+      "pattern": "@T&`~",
+      "replacement": "ඨ්‍යෝ"
+    },
+    {
+      "pattern": "@X&`~",
+      "replacement": "ශ්‍යෝ"
+    },
+    {
+      "pattern": "@]&`~",
+      "replacement": "ක්‍ෂ්‍යෝ"
+    },
+    {
+      "pattern": "@b&`~",
+      "replacement": "බ්‍යෝ"
+    },
+    {
+      "pattern": "@c&`~",
+      "replacement": "ච්‍යෝ"
+    },
+    {
+      "pattern": "@d&`~",
+      "replacement": "ඩ්‍යෝ"
+    },
+    {
+      "pattern": "@f&`~",
+      "replacement": "ෆ්‍යෝ"
+    },
+    {
+      "pattern": "@g&`~",
+      "replacement": "ග්‍යෝ"
+    },
+    {
+      "pattern": "@j&`~",
+      "replacement": "ජ්‍යෝ"
+    },
+    {
+      "pattern": "@k&`~",
+      "replacement": "ක්‍යෝ"
+    },
+    {
+      "pattern": "@l&`~",
+      "replacement": "ල්‍යෝ"
+    },
+    {
+      "pattern": "@m&`~",
+      "replacement": "ම්‍යෝ"
+    },
+    {
+      "pattern": "@n&`~",
+      "replacement": "න්‍යෝ"
+    },
+    {
+      "pattern": "@p&`~",
+      "replacement": "ප්‍යෝ"
+    },
+    {
+      "pattern": "@q&`~",
+      "replacement": "ද්‍යෝ"
+    },
+    {
+      "pattern": "@s&`~",
+      "replacement": "ස්‍යෝ"
+    },
+    {
+      "pattern": "@t&`~",
+      "replacement": "ට්‍යෝ"
+    },
+    {
+      "pattern": "@v&`~",
+      "replacement": "ව්‍යෝ"
+    },
+    {
+      "pattern": "@w&`~",
+      "replacement": "ත්‍යෝ"
+    },
+    {
+      "pattern": "@x&`~",
+      "replacement": "භ්‍යෝ"
+    },
+    {
+      "pattern": "@{&`~",
+      "replacement": "ධ්‍යෝ"
+    },
+    {
+      "pattern": "@}&`~",
+      "replacement": "ථ්‍යෝ"
+    },
+    {
+      "pattern": "@;&`",
+      "replacement": "ෂ්‍යො"
+    },
+    {
+      "pattern": "@X&`",
+      "replacement": "ශ්‍යො"
+    },
+    {
+      "pattern": "@K&`",
+      "replacement": "ඛ්‍යො"
+    },
+    {
+      "pattern": "@]&`",
+      "replacement": "ක්‍ෂ්‍යො"
+    },
+    {
+      "pattern": "@b&`",
+      "replacement": "බ්‍යො"
+    },
+    {
+      "pattern": "@c&`",
+      "replacement": "ව්‍යො"
+    },
+    {
+      "pattern": "@d&`",
+      "replacement": "ඩ්‍යො"
+    },
+    {
+      "pattern": "@f&`",
+      "replacement": "ෆ්‍යො"
+    },
+    {
+      "pattern": "@g&`",
+      "replacement": "ග්‍යො"
+    },
+    {
+      "pattern": "@j&`",
+      "replacement": "ජ්‍යො"
+    },
+    {
+      "pattern": "@k&`",
+      "replacement": "ක්‍යො"
+    },
+    {
+      "pattern": "@m&`",
+      "replacement": "ම්‍යො"
+    },
+    {
+      "pattern": "@p&`",
+      "replacement": "ප්‍යො"
+    },
+    {
+      "pattern": "@q&`",
+      "replacement": "ද්‍යො"
+    },
+    {
+      "pattern": "@s&`",
+      "replacement": "ස්‍යො"
+    },
+    {
+      "pattern": "@t&`",
+      "replacement": "ට්‍යො"
+    },
+    {
+      "pattern": "@v&`",
+      "replacement": "ව්‍යො"
+    },
+    {
+      "pattern": "@w&`",
+      "replacement": "ත්‍යො"
+    },
+    {
+      "pattern": "@x&`",
+      "replacement": "භ්‍යො"
+    },
+    {
+      "pattern": "@{&`",
+      "replacement": "ධ්‍යො"
+    },
+    {
+      "pattern": "@}&`",
+      "replacement": "ථ්‍යො"
+    },
+    {
+      "pattern": "@;&",
+      "replacement": "ෂ්‍යෙ"
+    },
+    {
+      "pattern": "@C&",
+      "replacement": "ඡ්‍යෙ"
+    },
+    {
+      "pattern": "@L&",
+      "replacement": "ළ්‍යෙ"
+    },
+    {
+      "pattern": "@N&",
+      "replacement": "ණ්‍යෙ"
+    },
+    {
+      "pattern": "@c&",
+      "replacement": "ච්‍යෙ"
+    },
+    {
+      "pattern": "@l&",
+      "replacement": "ල්‍යෙ"
+    },
+    {
+      "pattern": "@n&",
+      "replacement": "න්‍යෙ"
+    },
+    {
+      "pattern": "@X&",
+      "replacement": "ශ්‍යෙ"
+    },
+    {
+      "pattern": "@K&",
+      "replacement": "ඛ්‍යෙ"
+    },
+    {
+      "pattern": "@]&",
+      "replacement": "ක්‍ෂ්‍යෙ"
+    },
+    {
+      "pattern": "@b&",
+      "replacement": "බ්‍යෙ"
+    },
+    {
+      "pattern": "@d&",
+      "replacement": "ඩ්‍යෙ"
+    },
+    {
+      "pattern": "@f&",
+      "replacement": "ෆ්‍යෙ"
+    },
+    {
+      "pattern": "@g&",
+      "replacement": "ග්‍යෙ"
+    },
+    {
+      "pattern": "@j&",
+      "replacement": "ජ්‍යෙ"
+    },
+    {
+      "pattern": "@k&",
+      "replacement": "ක්‍යෙ"
+    },
+    {
+      "pattern": "@m&",
+      "replacement": "ම්‍යෙ"
+    },
+    {
+      "pattern": "@p&",
+      "replacement": "ප්‍යෙ"
+    },
+    {
+      "pattern": "@q&",
+      "replacement": "ද්‍යෙ"
+    },
+    {
+      "pattern": "@s&",
+      "replacement": "ස්‍යෙ"
+    },
+    {
+      "pattern": "@t&",
+      "replacement": "ට්‍යෙ"
+    },
+    {
+      "pattern": "@v&",
+      "replacement": "ව්‍යෙ"
+    },
+    {
+      "pattern": "@w&",
+      "replacement": "ත්‍යෙ"
+    },
+    {
+      "pattern": "@x&",
+      "replacement": "භ්‍යෙ"
+    },
+    {
+      "pattern": "@{&",
+      "replacement": "ධ්‍යෙ"
+    },
+    {
+      "pattern": "@}&",
+      "replacement": "ථ්‍යෙ"
+    },
+    {
+      "pattern": "@;Y`~",
+      "replacement": "ෂ්‍රෝ"
+    },
+    {
+      "pattern": "@GY`~",
+      "replacement": "ඝ්‍රෝ"
+    },
+    {
+      "pattern": "@XY`~",
+      "replacement": "ශ්‍රෝ"
+    },
+    {
+      "pattern": "@]Y`~",
+      "replacement": "ක්‍ෂ්‍රෝ"
+    },
+    {
+      "pattern": "@bY`~",
+      "replacement": "බ්‍රෝ"
+    },
+    {
+      "pattern": "@dY`~",
+      "replacement": "ඩ්‍රෝ"
+    },
+    {
+      "pattern": "@fY`~",
+      "replacement": "ෆ්‍රෝ"
+    },
+    {
+      "pattern": "@gY`~",
+      "replacement": "ග්‍රෝ"
+    },
+    {
+      "pattern": "@kY`~",
+      "replacement": "ක්‍රෝ"
+    },
+    {
+      "pattern": "@pY`~",
+      "replacement": "ප්‍රෝ"
+    },
+    {
+      "pattern": "@qY`~",
+      "replacement": "ද්‍රෝ"
+    },
+    {
+      "pattern": "@sY`~",
+      "replacement": "ස්‍රෝ"
+    },
+    {
+      "pattern": "@tY`~",
+      "replacement": "ට්‍රෝ"
+    },
+    {
+      "pattern": "@wY`~",
+      "replacement": "ත්‍රෝ"
+    },
+    {
+      "pattern": "@XY`",
+      "replacement": "ශ්‍රො"
+    },
+    {
+      "pattern": "@dY`",
+      "replacement": "ඩ්‍රො"
+    },
+    {
+      "pattern": "@fY`",
+      "replacement": "ෆ්‍රො"
+    },
+    {
+      "pattern": "@gY`",
+      "replacement": "ග්‍රො"
+    },
+    {
+      "pattern": "@kY`",
+      "replacement": "ක්‍රො"
+    },
+    {
+      "pattern": "@pY`",
+      "replacement": "ප්‍රො"
+    },
+    {
+      "pattern": "@qY`",
+      "replacement": "ද්‍රො"
+    },
+    {
+      "pattern": "@sY`",
+      "replacement": "ස්‍රො"
+    },
+    {
+      "pattern": "@tY`",
+      "replacement": "ට්‍රො"
+    },
+    {
+      "pattern": "@wY`",
+      "replacement": "ත්‍රො"
+    },
+    {
+      "pattern": "@XY~",
+      "replacement": "ශ්‍රේ"
+    },
+    {
+      "pattern": "@bY\\|",
+      "replacement": "බ්‍රේ"
+    },
+    {
+      "pattern": "@dY\\|",
+      "replacement": "ඩ්‍රේ"
+    },
+    {
+      "pattern": "@fY~",
+      "replacement": "ෆ්‍රේ"
+    },
+    {
+      "pattern": "@gY~",
+      "replacement": "ග්‍රේ"
+    },
+    {
+      "pattern": "@kY~",
+      "replacement": "ක්‍රේ"
+    },
+    {
+      "pattern": "@pY~",
+      "replacement": "ප්‍රේ"
+    },
+    {
+      "pattern": "@qY~",
+      "replacement": "ද්‍රේ"
+    },
+    {
+      "pattern": "@sY~",
+      "replacement": "ස්‍රේ"
+    },
+    {
+      "pattern": "@wY~",
+      "replacement": "ත්‍රේ"
+    },
+    {
+      "pattern": "@{Y\\|",
+      "replacement": "ධ්‍රේ"
+    },
+    {
+      "pattern": "@;Y",
+      "replacement": "ෂ්‍රෙ"
+    },
+    {
+      "pattern": "@XY",
+      "replacement": "ශ්‍රෙ"
+    },
+    {
+      "pattern": "@bY",
+      "replacement": "බ්‍රෙ"
+    },
+    {
+      "pattern": "@fY",
+      "replacement": "ෆ්‍රෙ"
+    },
+    {
+      "pattern": "@gY",
+      "replacement": "ග්‍රෙ"
+    },
+    {
+      "pattern": "@kY",
+      "replacement": "ක්‍රෙ"
+    },
+    {
+      "pattern": "@pY",
+      "replacement": "ප්‍රෙ"
+    },
+    {
+      "pattern": "@qY",
+      "replacement": "ද්‍රෙ"
+    },
+    {
+      "pattern": "@sY",
+      "replacement": "ස්‍රෙ"
+    },
+    {
+      "pattern": "@wY",
+      "replacement": "ත්‍රෙ"
+    },
+    {
+      "pattern": "@xY",
+      "replacement": "භ්‍රෙ"
+    },
+    {
+      "pattern": "@{Y",
+      "replacement": "ධ්‍රෙ"
+    },
+    {
+      "pattern": "@;_",
+      "replacement": "ෂෞ"
+    },
+    {
+      "pattern": "@C_",
+      "replacement": "ඡෞ"
+    },
+    {
+      "pattern": "@X_",
+      "replacement": "ශෞ"
+    },
+    {
+      "pattern": "@b_",
+      "replacement": "බෞ"
+    },
+    {
+      "pattern": "@c_",
+      "replacement": "චෞ"
+    },
+    {
+      "pattern": "@d_",
+      "replacement": "ඩෞ"
+    },
+    {
+      "pattern": "@f_",
+      "replacement": "ෆෞ"
+    },
+    {
+      "pattern": "@g_",
+      "replacement": "ගෞ"
+    },
+    {
+      "pattern": "@j_",
+      "replacement": "ජෞ"
+    },
+    {
+      "pattern": "@k_",
+      "replacement": "කෞ"
+    },
+    {
+      "pattern": "@l_",
+      "replacement": "ලෞ"
+    },
+    {
+      "pattern": "@m_",
+      "replacement": "මෞ"
+    },
+    {
+      "pattern": "@n_",
+      "replacement": "නෞ"
+    },
+    {
+      "pattern": "@p_",
+      "replacement": "පෞ"
+    },
+    {
+      "pattern": "@q_",
+      "replacement": "දෞ"
+    },
+    {
+      "pattern": "@r_",
+      "replacement": "රෞ"
+    },
+    {
+      "pattern": "@s_",
+      "replacement": "සෞ"
+    },
+    {
+      "pattern": "@t_",
+      "replacement": "ටෞ"
+    },
+    {
+      "pattern": "@w_",
+      "replacement": "තෞ"
+    },
+    {
+      "pattern": "@x_",
+      "replacement": "භෞ"
+    },
+    {
+      "pattern": "@z_",
+      "replacement": "ඤෞ"
+    },
+    {
+      "pattern": "@;`~",
+      "replacement": "ෂෝ"
+    },
+    {
+      "pattern": "@B`~",
+      "replacement": "ඹෝ"
+    },
+    {
+      "pattern": "@C`~",
+      "replacement": "ඡෝ"
+    },
+    {
+      "pattern": "@D`~",
+      "replacement": "ඪෝ"
+    },
+    {
+      "pattern": "@G`~",
+      "replacement": "ඝෝ"
+    },
+    {
+      "pattern": "@K`~",
+      "replacement": "ඛෝ"
+    },
+    {
+      "pattern": "@L`~",
+      "replacement": "ළෝ"
+    },
+    {
+      "pattern": "@M`~",
+      "replacement": "ඟෝ"
+    },
+    {
+      "pattern": "@N`~",
+      "replacement": "ණෝ"
+    },
+    {
+      "pattern": "@P`~",
+      "replacement": "ඵෝ"
+    },
+    {
+      "pattern": "@T`~",
+      "replacement": "ඨෝ"
+    },
+    {
+      "pattern": "@V`~",
+      "replacement": "ඬෝ"
+    },
+    {
+      "pattern": "@X`~",
+      "replacement": "ශෝ"
+    },
+    {
+      "pattern": "@Z`~",
+      "replacement": "ඥෝ"
+    },
+    {
+      "pattern": "@\\[`~",
+      "replacement": "ඳෝ"
+    },
+    {
+      "pattern": "@]`~",
+      "replacement": "ක්‍ෂෝ"
+    },
+    {
+      "pattern": "@b`~",
+      "replacement": "බෝ"
+    },
+    {
+      "pattern": "@c`~",
+      "replacement": "චෝ"
+    },
+    {
+      "pattern": "@d`~",
+      "replacement": "ඩෝ"
+    },
+    {
+      "pattern": "@f`~",
+      "replacement": "ෆෝ"
+    },
+    {
+      "pattern": "@g`~",
+      "replacement": "ගෝ"
+    },
+    {
+      "pattern": "@h`~",
+      "replacement": "හෝ"
+    },
+    {
+      "pattern": "@j`~",
+      "replacement": "ජෝ"
+    },
+    {
+      "pattern": "@k`~",
+      "replacement": "කෝ"
+    },
+    {
+      "pattern": "@l`~",
+      "replacement": "ලෝ"
+    },
+    {
+      "pattern": "@m`~",
+      "replacement": "මෝ"
+    },
+    {
+      "pattern": "@n`~",
+      "replacement": "නෝ"
+    },
+    {
+      "pattern": "@p`~",
+      "replacement": "පෝ"
+    },
+    {
+      "pattern": "@q`~",
+      "replacement": "දෝ"
+    },
+    {
+      "pattern": "@r`~",
+      "replacement": "රෝ"
+    },
+    {
+      "pattern": "@s`~",
+      "replacement": "සෝ"
+    },
+    {
+      "pattern": "@t`~",
+      "replacement": "ටෝ"
+    },
+    {
+      "pattern": "@v`~",
+      "replacement": "වෝ"
+    },
+    {
+      "pattern": "@w`~",
+      "replacement": "තෝ"
+    },
+    {
+      "pattern": "@x`~",
+      "replacement": "භෝ"
+    },
+    {
+      "pattern": "@y`~",
+      "replacement": "යෝ"
+    },
+    {
+      "pattern": "@z`~",
+      "replacement": "ඤෝ"
+    },
+    {
+      "pattern": "@{`~",
+      "replacement": "ධෝ"
+    },
+    {
+      "pattern": "@}`~",
+      "replacement": "ථෝ"
+    },
+    {
+      "pattern": "@;`",
+      "replacement": "ෂො"
+    },
+    {
+      "pattern": "@B`",
+      "replacement": "ඹො"
+    },
+    {
+      "pattern": "@C`",
+      "replacement": "ඡො"
+    },
+    {
+      "pattern": "@D`",
+      "replacement": "ඪො"
+    },
+    {
+      "pattern": "@G`",
+      "replacement": "ඝො"
+    },
+    {
+      "pattern": "@K`",
+      "replacement": "ඛො"
+    },
+    {
+      "pattern": "@L`",
+      "replacement": "ළො"
+    },
+    {
+      "pattern": "@M`",
+      "replacement": "ඟො"
+    },
+    {
+      "pattern": "@N`",
+      "replacement": "ණො"
+    },
+    {
+      "pattern": "@P`",
+      "replacement": "ඵො"
+    },
+    {
+      "pattern": "@T`",
+      "replacement": "ඨො"
+    },
+    {
+      "pattern": "@V`",
+      "replacement": "ඬො"
+    },
+    {
+      "pattern": "@X`",
+      "replacement": "ශො"
+    },
+    {
+      "pattern": "@Z`",
+      "replacement": "ඥො"
+    },
+    {
+      "pattern": "@\\[`",
+      "replacement": "ඳො"
+    },
+    {
+      "pattern": "@]`",
+      "replacement": "ක්‍ෂො"
+    },
+    {
+      "pattern": "@b`",
+      "replacement": "බො"
+    },
+    {
+      "pattern": "@c`",
+      "replacement": "චො"
+    },
+    {
+      "pattern": "@d`",
+      "replacement": "ඩො"
+    },
+    {
+      "pattern": "@f`",
+      "replacement": "ෆො"
+    },
+    {
+      "pattern": "@g`",
+      "replacement": "ගො"
+    },
+    {
+      "pattern": "@h`",
+      "replacement": "හො"
+    },
+    {
+      "pattern": "@j`",
+      "replacement": "ජො"
+    },
+    {
+      "pattern": "@k`",
+      "replacement": "කො"
+    },
+    {
+      "pattern": "@l`",
+      "replacement": "ලො"
+    },
+    {
+      "pattern": "@m`",
+      "replacement": "මො"
+    },
+    {
+      "pattern": "@n`",
+      "replacement": "නො"
+    },
+    {
+      "pattern": "@p`",
+      "replacement": "පො"
+    },
+    {
+      "pattern": "@q`",
+      "replacement": "දො"
+    },
+    {
+      "pattern": "@r`",
+      "replacement": "රො"
+    },
+    {
+      "pattern": "@s`",
+      "replacement": "සො"
+    },
+    {
+      "pattern": "@t`",
+      "replacement": "ටො"
+    },
+    {
+      "pattern": "@v`",
+      "replacement": "වො"
+    },
+    {
+      "pattern": "@w`",
+      "replacement": "තො"
+    },
+    {
+      "pattern": "@x`",
+      "replacement": "භො"
+    },
+    {
+      "pattern": "@y`",
+      "replacement": "යො"
+    },
+    {
+      "pattern": "@z`",
+      "replacement": "ඤො"
+    },
+    {
+      "pattern": "@{`",
+      "replacement": "ධො"
+    },
+    {
+      "pattern": "@}`",
+      "replacement": "ථො"
+    },
+    {
+      "pattern": "@;~",
+      "replacement": "ෂේ"
+    },
+    {
+      "pattern": "@B\\|",
+      "replacement": "ඹේ"
+    },
+    {
+      "pattern": "@C~",
+      "replacement": "ඡේ"
+    },
+    {
+      "pattern": "@D~",
+      "replacement": "ඪේ"
+    },
+    {
+      "pattern": "@G~",
+      "replacement": "ඝේ"
+    },
+    {
+      "pattern": "@K\\|",
+      "replacement": "ඛේ"
+    },
+    {
+      "pattern": "@L~",
+      "replacement": "ළේ"
+    },
+    {
+      "pattern": "@M~",
+      "replacement": "ඟේ"
+    },
+    {
+      "pattern": "@N~",
+      "replacement": "ණේ"
+    },
+    {
+      "pattern": "@P~",
+      "replacement": "ඵේ"
+    },
+    {
+      "pattern": "@T~",
+      "replacement": "ඨේ"
+    },
+    {
+      "pattern": "@V\\|",
+      "replacement": "ඬේ"
+    },
+    {
+      "pattern": "@X~",
+      "replacement": "ශේ"
+    },
+    {
+      "pattern": "@Z~",
+      "replacement": "ඥේ"
+    },
+    {
+      "pattern": "@\\[~",
+      "replacement": "ඳේ"
+    },
+    {
+      "pattern": "@]~",
+      "replacement": "ක්‍ෂේ"
+    },
+    {
+      "pattern": "@b\\|",
+      "replacement": "බේ"
+    },
+    {
+      "pattern": "@c\\|",
+      "replacement": "චේ"
+    },
+    {
+      "pattern": "@d\\|",
+      "replacement": "ඩේ"
+    },
+    {
+      "pattern": "@f~",
+      "replacement": "ෆේ"
+    },
+    {
+      "pattern": "@g~",
+      "replacement": "ගේ"
+    },
+    {
+      "pattern": "@h~",
+      "replacement": "හේ"
+    },
+    {
+      "pattern": "@j~",
+      "replacement": "ජේ"
+    },
+    {
+      "pattern": "@k~",
+      "replacement": "කේ"
+    },
+    {
+      "pattern": "@l~",
+      "replacement": "ලේ"
+    },
+    {
+      "pattern": "@m\\|",
+      "replacement": "මේ"
+    },
+    {
+      "pattern": "@n~",
+      "replacement": "නේ"
+    },
+    {
+      "pattern": "@p~",
+      "replacement": "පේ"
+    },
+    {
+      "pattern": "@q~",
+      "replacement": "දේ"
+    },
+    {
+      "pattern": "@r~",
+      "replacement": "රේ"
+    },
+    {
+      "pattern": "@s~",
+      "replacement": "සේ"
+    },
+    {
+      "pattern": "@t\\|",
+      "replacement": "ටේ"
+    },
+    {
+      "pattern": "@v\\|",
+      "replacement": "වේ"
+    },
+    {
+      "pattern": "@w~",
+      "replacement": "තේ"
+    },
+    {
+      "pattern": "@x~",
+      "replacement": "භේ"
+    },
+    {
+      "pattern": "@y~",
+      "replacement": "යේ"
+    },
+    {
+      "pattern": "@z~",
+      "replacement": "ඤේ"
+    },
+    {
+      "pattern": "@{\\|",
+      "replacement": "ධේ"
+    },
+    {
+      "pattern": "@}~",
+      "replacement": "ථේ"
+    },
+    {
+      "pattern": "@;",
+      "replacement": "ෂෙ"
+    },
+    {
+      "pattern": "@B",
+      "replacement": "ඹෙ"
+    },
+    {
+      "pattern": "@e",
+      "replacement": "ඓ"
+    },
+    {
+      "pattern": "@C",
+      "replacement": "ඡෙ"
+    },
+    {
+      "pattern": "@D",
+      "replacement": "ඪෙ"
+    },
+    {
+      "pattern": "@G",
+      "replacement": "ඝෙ"
+    },
+    {
+      "pattern": "@K",
+      "replacement": "ඛෙ"
+    },
+    {
+      "pattern": "@L",
+      "replacement": "ළෙ"
+    },
+    {
+      "pattern": "@M",
+      "replacement": "ඟෙ"
+    },
+    {
+      "pattern": "@N",
+      "replacement": "ණෙ"
+    },
+    {
+      "pattern": "@P",
+      "replacement": "ඵෙ"
+    },
+    {
+      "pattern": "@T",
+      "replacement": "ඨෙ"
+    },
+    {
+      "pattern": "@V",
+      "replacement": "ඬෙ"
+    },
+    {
+      "pattern": "@X",
+      "replacement": "ශෙ"
+    },
+    {
+      "pattern": "@Z",
+      "replacement": "ඥෙ"
+    },
+    {
+      "pattern": "@\\[",
+      "replacement": "ඳෙ"
+    },
+    {
+      "pattern": "@]",
+      "replacement": "ක්‍ෂෙ"
+    },
+    {
+      "pattern": "@b",
+      "replacement": "බෙ"
+    },
+    {
+      "pattern": "@c",
+      "replacement": "චෙ"
+    },
+    {
+      "pattern": "@d",
+      "replacement": "ඩෙ"
+    },
+    {
+      "pattern": "@f",
+      "replacement": "ෆෙ"
+    },
+    {
+      "pattern": "@g",
+      "replacement": "ගෙ"
+    },
+    {
+      "pattern": "@h",
+      "replacement": "හෙ"
+    },
+    {
+      "pattern": "@j",
+      "replacement": "ජෙ"
+    },
+    {
+      "pattern": "@k",
+      "replacement": "කෙ"
+    },
+    {
+      "pattern": "@l",
+      "replacement": "ලෙ"
+    },
+    {
+      "pattern": "@m",
+      "replacement": "මෙ"
+    },
+    {
+      "pattern": "@n",
+      "replacement": "නෙ"
+    },
+    {
+      "pattern": "@p",
+      "replacement": "පෙ"
+    },
+    {
+      "pattern": "@q",
+      "replacement": "දෙ"
+    },
+    {
+      "pattern": "@r",
+      "replacement": "රෙ"
+    },
+    {
+      "pattern": "@s",
+      "replacement": "සෙ"
+    },
+    {
+      "pattern": "@t",
+      "replacement": "ටෙ"
+    },
+    {
+      "pattern": "@v",
+      "replacement": "වෙ"
+    },
+    {
+      "pattern": "@w",
+      "replacement": "තෙ"
+    },
+    {
+      "pattern": "@x",
+      "replacement": "භෙ"
+    },
+    {
+      "pattern": "@y",
+      "replacement": "යෙ"
+    },
+    {
+      "pattern": "@z",
+      "replacement": "ඤෙ"
+    },
+    {
+      "pattern": "@{",
+      "replacement": "ධෙ"
+    },
+    {
+      "pattern": "@}",
+      "replacement": "ථෙ"
+    },
+    {
+      "pattern": ";\\^\\^",
+      "replacement": "ෂෲ"
+    },
+    {
+      "pattern": "X\\^\\^",
+      "replacement": "ශෲ"
+    },
+    {
+      "pattern": "b\\^\\^",
+      "replacement": "බෲ"
+    },
+    {
+      "pattern": "d\\^\\^",
+      "replacement": "ඩෲ"
+    },
+    {
+      "pattern": "f\\^\\^",
+      "replacement": "ෆෲ"
+    },
+    {
+      "pattern": "g\\^\\^",
+      "replacement": "ගෲ"
+    },
+    {
+      "pattern": "k\\^\\^",
+      "replacement": "කෲ"
+    },
+    {
+      "pattern": "p\\^\\^",
+      "replacement": "පෲ"
+    },
+    {
+      "pattern": "s\\^\\^",
+      "replacement": "සෲ"
+    },
+    {
+      "pattern": "t\\^\\^",
+      "replacement": "ටෲ"
+    },
+    {
+      "pattern": "w\\^\\^",
+      "replacement": "තෲ"
+    },
+    {
+      "pattern": "x\\^\\^",
+      "replacement": "භෲ"
+    },
+    {
+      "pattern": "{\\^\\^",
+      "replacement": "ධෲ"
+    },
+    {
+      "pattern": "r#",
+      "replacement": "රු"
+    },
+    {
+      "pattern": "r\\$",
+      "replacement": "රූ"
+    },
+    {
+      "pattern": "a`",
+      "replacement": "ආ"
+    },
+    {
+      "pattern": "a#",
+      "replacement": "ඇ"
+    },
+    {
+      "pattern": "a\\$",
+      "replacement": "ඈ"
+    },
+    {
+      "pattern": "u_",
+      "replacement": "ඌ"
+    },
+    {
+      "pattern": "o_",
+      "replacement": "ඖ"
+    },
+    {
+      "pattern": "e~",
+      "replacement": "ඒ"
+    },
+    {
+      "pattern": "o\\|",
+      "replacement": "ඕ"
+    },
+    {
+      "pattern": ";",
+      "replacement": "ෂ"
+    },
+    {
+      "pattern": "A",
+      "replacement": "ං"
+    },
+    {
+      "pattern": ":",
+      "replacement": "ඃ"
+    },
+    {
+      "pattern": "B",
+      "replacement": "ඹ"
+    },
+    {
+      "pattern": "C",
+      "replacement": "ඡ"
+    },
+    {
+      "pattern": "D",
+      "replacement": "ඪ"
+    },
+    {
+      "pattern": "G",
+      "replacement": "ඝ"
+    },
+    {
+      "pattern": "I",
+      "replacement": "ඊ"
+    },
+    {
+      "pattern": "J",
+      "replacement": "ඣ"
+    },
+    {
+      "pattern": "K",
+      "replacement": "ඛ"
+    },
+    {
+      "pattern": "L",
+      "replacement": "ළ"
+    },
+    {
+      "pattern": "M",
+      "replacement": "ඟ"
+    },
+    {
+      "pattern": "N",
+      "replacement": "ණ"
+    },
+    {
+      "pattern": "P",
+      "replacement": "ඵ"
+    },
+    {
+      "pattern": "T",
+      "replacement": "ඨ"
+    },
+    {
+      "pattern": "U",
+      "replacement": "ළු"
+    },
+    {
+      "pattern": "V",
+      "replacement": "ඬ"
+    },
+    {
+      "pattern": "X",
+      "replacement": "ශ"
+    },
+    {
+      "pattern": "Z",
+      "replacement": "ඥ"
+    },
+    {
+      "pattern": "\\[",
+      "replacement": "ඳ"
+    },
+    {
+      "pattern": "]",
+      "replacement": "ක්‍ෂ"
+    },
+    {
+      "pattern": "e",
+      "replacement": "එ"
+    },
+    {
+      "pattern": "a",
+      "replacement": "අ"
+    },
+    {
+      "pattern": "b",
+      "replacement": "බ"
+    },
+    {
+      "pattern": "c",
+      "replacement": "ච"
+    },
+    {
+      "pattern": "d",
+      "replacement": "ඩ"
+    },
+    {
+      "pattern": "e",
+      "replacement": "ඵ"
+    },
+    {
+      "pattern": "f",
+      "replacement": "ෆ"
+    },
+    {
+      "pattern": "g",
+      "replacement": "ග"
+    },
+    {
+      "pattern": "h",
+      "replacement": "හ"
+    },
+    {
+      "pattern": "i",
+      "replacement": "ඉ"
+    },
+    {
+      "pattern": "j",
+      "replacement": "ජ"
+    },
+    {
+      "pattern": "k",
+      "replacement": "ක"
+    },
+    {
+      "pattern": "l",
+      "replacement": "ල"
+    },
+    {
+      "pattern": "m",
+      "replacement": "ම"
+    },
+    {
+      "pattern": "n",
+      "replacement": "න"
+    },
+    {
+      "pattern": "o",
+      "replacement": "ඔ"
+    },
+    {
+      "pattern": "p",
+      "replacement": "ප"
+    },
+    {
+      "pattern": "q",
+      "replacement": "ද"
+    },
+    {
+      "pattern": "r",
+      "replacement": "ර"
+    },
+    {
+      "pattern": "s",
+      "replacement": "ස"
+    },
+    {
+      "pattern": "t",
+      "replacement": "ට"
+    },
+    {
+      "pattern": "u",
+      "replacement": "උ"
+    },
+    {
+      "pattern": "v",
+      "replacement": "ව"
+    },
+    {
+      "pattern": "w",
+      "replacement": "ත"
+    },
+    {
+      "pattern": "x",
+      "replacement": "භ"
+    },
+    {
+      "pattern": "y",
+      "replacement": "ය"
+    },
+    {
+      "pattern": "z",
+      "replacement": "ඤ"
+    },
+    {
+      "pattern": "{",
+      "replacement": "ධ"
+    },
+    {
+      "pattern": "}",
+      "replacement": "ථ"
+    },
+    {
+      "pattern": "QY",
+      "replacement": "YQ"
+    },
+    {
+      "pattern": "QW",
+      "replacement": "WQ"
+    },
+    {
+      "pattern": "&",
+      "replacement": "්‍ය"
+    },
+    {
+      "pattern": "Y",
+      "replacement": "්‍ර"
+    },
+    {
+      "pattern": "#",
+      "replacement": "ැ"
+    },
+    {
+      "pattern": "\\$",
+      "replacement": "ෑ"
+    },
+    {
+      "pattern": "@",
+      "replacement": "ෙ"
+    },
+    {
+      "pattern": "E",
+      "replacement": "ු"
+    },
+    {
+      "pattern": "F",
+      "replacement": "ැ"
+    },
+    {
+      "pattern": "H",
+      "replacement": "ෑ"
+    },
+    {
+      "pattern": "O",
+      "replacement": "ු"
+    },
+    {
+      "pattern": "Q",
+      "replacement": "ි"
+    },
+    {
+      "pattern": "R",
+      "replacement": "ූ"
+    },
+    {
+      "pattern": "S",
+      "replacement": "ූ"
+    },
+    {
+      "pattern": "W",
+      "replacement": "ී"
+    },
+    {
+      "pattern": "\\^",
+      "replacement": "ෘ"
+    },
+    {
+      "pattern": "_",
+      "replacement": "ෟ"
+    },
+    {
+      "pattern": "`",
+      "replacement": "ා"
+    },
+    {
+      "pattern": "\\|",
+      "replacement": "්"
+    },
+    {
+      "pattern": "~",
+      "replacement": "්"
+    },
+    {
+      "pattern": "\\\\",
+      "replacement": "්"
+    }
+  ],
+  "encodeSteps": [
+    {
+      "pattern": ";",
+      "replacement": "¶"
+    },
+    {
+      "pattern": "ත්‍රෛ",
+      "replacement": "@@wY"
+    },
+    {
+      "pattern": "ශෛ",
+      "replacement": "@@X"
+    },
+    {
+      "pattern": "චෛ",
+      "replacement": "@@c"
+    },
+    {
+      "pattern": "ජෛ",
+      "replacement": "@@j"
+    },
+    {
+      "pattern": "කෛ",
+      "replacement": "@@k"
+    },
+    {
+      "pattern": "මෛ",
+      "replacement": "@@m"
+    },
+    {
+      "pattern": "පෛ",
+      "replacement": "@@p"
+    },
+    {
+      "pattern": "දෛ",
+      "replacement": "@@q"
+    },
+    {
+      "pattern": "තෛ",
+      "replacement": "@@w"
+    },
+    {
+      "pattern": "නෛ",
+      "replacement": "@@n"
+    },
+    {
+      "pattern": "ධෛ",
+      "replacement": "@@{"
+    },
+    {
+      "pattern": "වෛ",
+      "replacement": "@@v"
+    },
+    {
+      "pattern": "ප්‍රෞ",
+      "replacement": "@pY_"
+    },
+    {
+      "pattern": "ෂ්‍යෝ",
+      "replacement": "@;&`~"
+    },
+    {
+      "pattern": "ඡ්‍යෝ",
+      "replacement": "@C&`~"
+    },
+    {
+      "pattern": "ඪ්‍යෝ",
+      "replacement": "@D&`~"
+    },
+    {
+      "pattern": "ඝ්‍යෝ",
+      "replacement": "@G&`~"
+    },
+    {
+      "pattern": "ඛ්‍යෝ",
+      "replacement": "@K&`~"
+    },
+    {
+      "pattern": "ළ්‍යෝ",
+      "replacement": "@L&`~"
+    },
+    {
+      "pattern": "ඵ්‍යෝ",
+      "replacement": "@P&`~"
+    },
+    {
+      "pattern": "ඨ්‍යෝ",
+      "replacement": "@T&`~"
+    },
+    {
+      "pattern": "ශ්‍යෝ",
+      "replacement": "@X&`~"
+    },
+    {
+      "pattern": "ක්‍ෂ්‍යෝ",
+      "replacement": "@]&`~"
+    },
+    {
+      "pattern": "බ්‍යෝ",
+      "replacement": "@b&`~"
+    },
+    {
+      "pattern": "ච්‍යෝ",
+      "replacement": "@c&`~"
+    },
+    {
+      "pattern": "ඩ්‍යෝ",
+      "replacement": "@d&`~"
+    },
+    {
+      "pattern": "ෆ්‍යෝ",
+      "replacement": "@f&`~"
+    },
+    {
+      "pattern": "ග්‍යෝ",
+      "replacement": "@g&`~"
+    },
+    {
+      "pattern": "ජ්‍යෝ",
+      "replacement": "@j&`~"
+    },
+    {
+      "pattern": "ක්‍යෝ",
+      "replacement": "@k&`~"
+    },
+    {
+      "pattern": "ල්‍යෝ",
+      "replacement": "@l&`~"
+    },
+    {
+      "pattern": "ම්‍යෝ",
+      "replacement": "@m&`~"
+    },
+    {
+      "pattern": "න්‍යෝ",
+      "replacement": "@n&`~"
+    },
+    {
+      "pattern": "ප්‍යෝ",
+      "replacement": "@p&`~"
+    },
+    {
+      "pattern": "ද්‍යෝ",
+      "replacement": "@q&`~"
+    },
+    {
+      "pattern": "ස්‍යෝ",
+      "replacement": "@s&`~"
+    },
+    {
+      "pattern": "ට්‍යෝ",
+      "replacement": "@t&`~"
+    },
+    {
+      "pattern": "ව්‍යෝ",
+      "replacement": "@v&`~"
+    },
+    {
+      "pattern": "ත්‍යෝ",
+      "replacement": "@w&`~"
+    },
+    {
+      "pattern": "භ්‍යෝ",
+      "replacement": "@x&`~"
+    },
+    {
+      "pattern": "ධ්‍යෝ",
+      "replacement": "@{&`~"
+    },
+    {
+      "pattern": "ථ්‍යෝ",
+      "replacement": "@}&`~"
+    },
+    {
+      "pattern": "ෂ්‍යො",
+      "replacement": "@;&`"
+    },
+    {
+      "pattern": "ශ්‍යො",
+      "replacement": "@X&`"
+    },
+    {
+      "pattern": "ඛ්‍යො",
+      "replacement": "@K&`"
+    },
+    {
+      "pattern": "ක්‍ෂ්‍යො",
+      "replacement": "@]&`"
+    },
+    {
+      "pattern": "බ්‍යො",
+      "replacement": "@b&`"
+    },
+    {
+      "pattern": "ව්‍යො",
+      "replacement": "@c&`"
+    },
+    {
+      "pattern": "ඩ්‍යො",
+      "replacement": "@d&`"
+    },
+    {
+      "pattern": "ෆ්‍යො",
+      "replacement": "@f&`"
+    },
+    {
+      "pattern": "ග්‍යො",
+      "replacement": "@g&`"
+    },
+    {
+      "pattern": "ජ්‍යො",
+      "replacement": "@j&`"
+    },
+    {
+      "pattern": "ක්‍යො",
+      "replacement": "@k&`"
+    },
+    {
+      "pattern": "ම්‍යො",
+      "replacement": "@m&`"
+    },
+    {
+      "pattern": "ප්‍යො",
+      "replacement": "@p&`"
+    },
+    {
+      "pattern": "ද්‍යො",
+      "replacement": "@q&`"
+    },
+    {
+      "pattern": "ස්‍යො",
+      "replacement": "@s&`"
+    },
+    {
+      "pattern": "ට්‍යො",
+      "replacement": "@t&`"
+    },
+    {
+      "pattern": "ව්‍යො",
+      "replacement": "@v&`"
+    },
+    {
+      "pattern": "ත්‍යො",
+      "replacement": "@w&`"
+    },
+    {
+      "pattern": "භ්‍යො",
+      "replacement": "@x&`"
+    },
+    {
+      "pattern": "ධ්‍යො",
+      "replacement": "@{&`"
+    },
+    {
+      "pattern": "ථ්‍යො",
+      "replacement": "@}&`"
+    },
+    {
+      "pattern": "ෂ්‍යෙ",
+      "replacement": "@;&"
+    },
+    {
+      "pattern": "ඡ්‍යෙ",
+      "replacement": "@C&"
+    },
+    {
+      "pattern": "ළ්‍යෙ",
+      "replacement": "@L&"
+    },
+    {
+      "pattern": "ණ්‍යෙ",
+      "replacement": "@N&"
+    },
+    {
+      "pattern": "ච්‍යෙ",
+      "replacement": "@c&"
+    },
+    {
+      "pattern": "ල්‍යෙ",
+      "replacement": "@l&"
+    },
+    {
+      "pattern": "න්‍යෙ",
+      "replacement": "@n&"
+    },
+    {
+      "pattern": "ශ්‍යෙ",
+      "replacement": "@X&"
+    },
+    {
+      "pattern": "ඛ්‍යෙ",
+      "replacement": "@K&"
+    },
+    {
+      "pattern": "ක්‍ෂ්‍යෙ",
+      "replacement": "@]&"
+    },
+    {
+      "pattern": "බ්‍යෙ",
+      "replacement": "@b&"
+    },
+    {
+      "pattern": "ඩ්‍යෙ",
+      "replacement": "@d&"
+    },
+    {
+      "pattern": "ෆ්‍යෙ",
+      "replacement": "@f&"
+    },
+    {
+      "pattern": "ග්‍යෙ",
+      "replacement": "@g&"
+    },
+    {
+      "pattern": "ජ්‍යෙ",
+      "replacement": "@j&"
+    },
+    {
+      "pattern": "ක්‍යෙ",
+      "replacement": "@k&"
+    },
+    {
+      "pattern": "ම්‍යෙ",
+      "replacement": "@m&"
+    },
+    {
+      "pattern": "ප්‍යෙ",
+      "replacement": "@p&"
+    },
+    {
+      "pattern": "ද්‍යෙ",
+      "replacement": "@q&"
+    },
+    {
+      "pattern": "ස්‍යෙ",
+      "replacement": "@s&"
+    },
+    {
+      "pattern": "ට්‍යෙ",
+      "replacement": "@t&"
+    },
+    {
+      "pattern": "ව්‍යෙ",
+      "replacement": "@v&"
+    },
+    {
+      "pattern": "ත්‍යෙ",
+      "replacement": "@w&"
+    },
+    {
+      "pattern": "භ්‍යෙ",
+      "replacement": "@x&"
+    },
+    {
+      "pattern": "ධ්‍යෙ",
+      "replacement": "@{&"
+    },
+    {
+      "pattern": "ථ්‍යෙ",
+      "replacement": "@}&"
+    },
+    {
+      "pattern": "ෂ්‍රෝ",
+      "replacement": "@;Y`~"
+    },
+    {
+      "pattern": "ඝ්‍රෝ",
+      "replacement": "@GY`~"
+    },
+    {
+      "pattern": "ශ්‍රෝ",
+      "replacement": "@XY`~"
+    },
+    {
+      "pattern": "ක්‍ෂ්‍රෝ",
+      "replacement": "@]Y`~"
+    },
+    {
+      "pattern": "බ්‍රෝ",
+      "replacement": "@bY`~"
+    },
+    {
+      "pattern": "ඩ්‍රෝ",
+      "replacement": "@dY`~"
+    },
+    {
+      "pattern": "ෆ්‍රෝ",
+      "replacement": "@fY`~"
+    },
+    {
+      "pattern": "ග්‍රෝ",
+      "replacement": "@gY`~"
+    },
+    {
+      "pattern": "ක්‍රෝ",
+      "replacement": "@kY`~"
+    },
+    {
+      "pattern": "ප්‍රෝ",
+      "replacement": "@pY`~"
+    },
+    {
+      "pattern": "ද්‍රෝ",
+      "replacement": "@qY`~"
+    },
+    {
+      "pattern": "ස්‍රෝ",
+      "replacement": "@sY`~"
+    },
+    {
+      "pattern": "ට්‍රෝ",
+      "replacement": "@tY`~"
+    },
+    {
+      "pattern": "ත්‍රෝ",
+      "replacement": "@wY`~"
+    },
+    {
+      "pattern": "ශ්‍රො",
+      "replacement": "@XY`"
+    },
+    {
+      "pattern": "ඩ්‍රො",
+      "replacement": "@dY`"
+    },
+    {
+      "pattern": "ෆ්‍රො",
+      "replacement": "@fY`"
+    },
+    {
+      "pattern": "ග්‍රො",
+      "replacement": "@gY`"
+    },
+    {
+      "pattern": "ක්‍රො",
+      "replacement": "@kY`"
+    },
+    {
+      "pattern": "ප්‍රො",
+      "replacement": "@pY`"
+    },
+    {
+      "pattern": "ද්‍රො",
+      "replacement": "@qY`"
+    },
+    {
+      "pattern": "ස්‍රො",
+      "replacement": "@sY`"
+    },
+    {
+      "pattern": "ට්‍රො",
+      "replacement": "@tY`"
+    },
+    {
+      "pattern": "ත්‍රො",
+      "replacement": "@wY`"
+    },
+    {
+      "pattern": "ශ්‍රේ",
+      "replacement": "@XY~"
+    },
+    {
+      "pattern": "බ්‍රේ",
+      "replacement": "@bY|"
+    },
+    {
+      "pattern": "ඩ්‍රේ",
+      "replacement": "@dY|"
+    },
+    {
+      "pattern": "ෆ්‍රේ",
+      "replacement": "@fY~"
+    },
+    {
+      "pattern": "ග්‍රේ",
+      "replacement": "@gY~"
+    },
+    {
+      "pattern": "ක්‍රේ",
+      "replacement": "@kY~"
+    },
+    {
+      "pattern": "ප්‍රේ",
+      "replacement": "@pY~"
+    },
+    {
+      "pattern": "ද්‍රේ",
+      "replacement": "@qY~"
+    },
+    {
+      "pattern": "ස්‍රේ",
+      "replacement": "@sY~"
+    },
+    {
+      "pattern": "ත්‍රේ",
+      "replacement": "@wY~"
+    },
+    {
+      "pattern": "ධ්‍රේ",
+      "replacement": "@{Y|"
+    },
+    {
+      "pattern": "ෂ්‍රෙ",
+      "replacement": "@;Y"
+    },
+    {
+      "pattern": "ශ්‍රෙ",
+      "replacement": "@XY"
+    },
+    {
+      "pattern": "බ්‍රෙ",
+      "replacement": "@bY"
+    },
+    {
+      "pattern": "ෆ්‍රෙ",
+      "replacement": "@fY"
+    },
+    {
+      "pattern": "ග්‍රෙ",
+      "replacement": "@gY"
+    },
+    {
+      "pattern": "ක්‍රෙ",
+      "replacement": "@kY"
+    },
+    {
+      "pattern": "ප්‍රෙ",
+      "replacement": "@pY"
+    },
+    {
+      "pattern": "ද්‍රෙ",
+      "replacement": "@qY"
+    },
+    {
+      "pattern": "ස්‍රෙ",
+      "replacement": "@sY"
+    },
+    {
+      "pattern": "ත්‍රෙ",
+      "replacement": "@wY"
+    },
+    {
+      "pattern": "භ්‍රෙ",
+      "replacement": "@xY"
+    },
+    {
+      "pattern": "ධ්‍රෙ",
+      "replacement": "@{Y"
+    },
+    {
+      "pattern": "ෂෞ",
+      "replacement": "@;_"
+    },
+    {
+      "pattern": "ඡෞ",
+      "replacement": "@C_"
+    },
+    {
+      "pattern": "ශෞ",
+      "replacement": "@X_"
+    },
+    {
+      "pattern": "බෞ",
+      "replacement": "@b_"
+    },
+    {
+      "pattern": "චෞ",
+      "replacement": "@c_"
+    },
+    {
+      "pattern": "ඩෞ",
+      "replacement": "@d_"
+    },
+    {
+      "pattern": "ෆෞ",
+      "replacement": "@f_"
+    },
+    {
+      "pattern": "ගෞ",
+      "replacement": "@g_"
+    },
+    {
+      "pattern": "ජෞ",
+      "replacement": "@j_"
+    },
+    {
+      "pattern": "කෞ",
+      "replacement": "@k_"
+    },
+    {
+      "pattern": "ලෞ",
+      "replacement": "@l_"
+    },
+    {
+      "pattern": "මෞ",
+      "replacement": "@m_"
+    },
+    {
+      "pattern": "නෞ",
+      "replacement": "@n_"
+    },
+    {
+      "pattern": "පෞ",
+      "replacement": "@p_"
+    },
+    {
+      "pattern": "දෞ",
+      "replacement": "@q_"
+    },
+    {
+      "pattern": "රෞ",
+      "replacement": "@r_"
+    },
+    {
+      "pattern": "සෞ",
+      "replacement": "@s_"
+    },
+    {
+      "pattern": "ටෞ",
+      "replacement": "@t_"
+    },
+    {
+      "pattern": "තෞ",
+      "replacement": "@w_"
+    },
+    {
+      "pattern": "භෞ",
+      "replacement": "@x_"
+    },
+    {
+      "pattern": "ඤෞ",
+      "replacement": "@z_"
+    },
+    {
+      "pattern": "ෂෝ",
+      "replacement": "@;`~"
+    },
+    {
+      "pattern": "ඹෝ",
+      "replacement": "@B`~"
+    },
+    {
+      "pattern": "ඡෝ",
+      "replacement": "@C`~"
+    },
+    {
+      "pattern": "ඪෝ",
+      "replacement": "@D`~"
+    },
+    {
+      "pattern": "ඝෝ",
+      "replacement": "@G`~"
+    },
+    {
+      "pattern": "ඛෝ",
+      "replacement": "@K`~"
+    },
+    {
+      "pattern": "ළෝ",
+      "replacement": "@L`~"
+    },
+    {
+      "pattern": "ඟෝ",
+      "replacement": "@M`~"
+    },
+    {
+      "pattern": "ණෝ",
+      "replacement": "@N`~"
+    },
+    {
+      "pattern": "ඵෝ",
+      "replacement": "@P`~"
+    },
+    {
+      "pattern": "ඨෝ",
+      "replacement": "@T`~"
+    },
+    {
+      "pattern": "ඬෝ",
+      "replacement": "@V`~"
+    },
+    {
+      "pattern": "ශෝ",
+      "replacement": "@X`~"
+    },
+    {
+      "pattern": "ඥෝ",
+      "replacement": "@Z`~"
+    },
+    {
+      "pattern": "ඳෝ",
+      "replacement": "@[`~"
+    },
+    {
+      "pattern": "ක්‍ෂෝ",
+      "replacement": "@]`~"
+    },
+    {
+      "pattern": "බෝ",
+      "replacement": "@b`~"
+    },
+    {
+      "pattern": "චෝ",
+      "replacement": "@c`~"
+    },
+    {
+      "pattern": "ඩෝ",
+      "replacement": "@d`~"
+    },
+    {
+      "pattern": "ෆෝ",
+      "replacement": "@f`~"
+    },
+    {
+      "pattern": "ගෝ",
+      "replacement": "@g`~"
+    },
+    {
+      "pattern": "හෝ",
+      "replacement": "@h`~"
+    },
+    {
+      "pattern": "ජෝ",
+      "replacement": "@j`~"
+    },
+    {
+      "pattern": "කෝ",
+      "replacement": "@k`~"
+    },
+    {
+      "pattern": "ලෝ",
+      "replacement": "@l`~"
+    },
+    {
+      "pattern": "මෝ",
+      "replacement": "@m`~"
+    },
+    {
+      "pattern": "නෝ",
+      "replacement": "@n`~"
+    },
+    {
+      "pattern": "පෝ",
+      "replacement": "@p`~"
+    },
+    {
+      "pattern": "දෝ",
+      "replacement": "@q`~"
+    },
+    {
+      "pattern": "රෝ",
+      "replacement": "@r`~"
+    },
+    {
+      "pattern": "සෝ",
+      "replacement": "@s`~"
+    },
+    {
+      "pattern": "ටෝ",
+      "replacement": "@t`~"
+    },
+    {
+      "pattern": "වෝ",
+      "replacement": "@v`~"
+    },
+    {
+      "pattern": "තෝ",
+      "replacement": "@w`~"
+    },
+    {
+      "pattern": "භෝ",
+      "replacement": "@x`~"
+    },
+    {
+      "pattern": "යෝ",
+      "replacement": "@y`~"
+    },
+    {
+      "pattern": "ඤෝ",
+      "replacement": "@z`~"
+    },
+    {
+      "pattern": "ධෝ",
+      "replacement": "@{`~"
+    },
+    {
+      "pattern": "ථෝ",
+      "replacement": "@}`~"
+    },
+    {
+      "pattern": "ෂො",
+      "replacement": "@;`"
+    },
+    {
+      "pattern": "ඹො",
+      "replacement": "@B`"
+    },
+    {
+      "pattern": "ඡො",
+      "replacement": "@C`"
+    },
+    {
+      "pattern": "ඪො",
+      "replacement": "@D`"
+    },
+    {
+      "pattern": "ඝො",
+      "replacement": "@G`"
+    },
+    {
+      "pattern": "ඛො",
+      "replacement": "@K`"
+    },
+    {
+      "pattern": "ළො",
+      "replacement": "@L`"
+    },
+    {
+      "pattern": "ඟො",
+      "replacement": "@M`"
+    },
+    {
+      "pattern": "ණො",
+      "replacement": "@N`"
+    },
+    {
+      "pattern": "ඵො",
+      "replacement": "@P`"
+    },
+    {
+      "pattern": "ඨො",
+      "replacement": "@T`"
+    },
+    {
+      "pattern": "ඬො",
+      "replacement": "@V`"
+    },
+    {
+      "pattern": "ශො",
+      "replacement": "@X`"
+    },
+    {
+      "pattern": "ඥො",
+      "replacement": "@Z`"
+    },
+    {
+      "pattern": "ඳො",
+      "replacement": "@[`"
+    },
+    {
+      "pattern": "ක්‍ෂො",
+      "replacement": "@]`"
+    },
+    {
+      "pattern": "බො",
+      "replacement": "@b`"
+    },
+    {
+      "pattern": "චො",
+      "replacement": "@c`"
+    },
+    {
+      "pattern": "ඩො",
+      "replacement": "@d`"
+    },
+    {
+      "pattern": "ෆො",
+      "replacement": "@f`"
+    },
+    {
+      "pattern": "ගො",
+      "replacement": "@g`"
+    },
+    {
+      "pattern": "හො",
+      "replacement": "@h`"
+    },
+    {
+      "pattern": "ජො",
+      "replacement": "@j`"
+    },
+    {
+      "pattern": "කො",
+      "replacement": "@k`"
+    },
+    {
+      "pattern": "ලො",
+      "replacement": "@l`"
+    },
+    {
+      "pattern": "මො",
+      "replacement": "@m`"
+    },
+    {
+      "pattern": "නො",
+      "replacement": "@n`"
+    },
+    {
+      "pattern": "පො",
+      "replacement": "@p`"
+    },
+    {
+      "pattern": "දො",
+      "replacement": "@q`"
+    },
+    {
+      "pattern": "රො",
+      "replacement": "@r`"
+    },
+    {
+      "pattern": "සො",
+      "replacement": "@s`"
+    },
+    {
+      "pattern": "ටො",
+      "replacement": "@t`"
+    },
+    {
+      "pattern": "වො",
+      "replacement": "@v`"
+    },
+    {
+      "pattern": "තො",
+      "replacement": "@w`"
+    },
+    {
+      "pattern": "භො",
+      "replacement": "@x`"
+    },
+    {
+      "pattern": "යො",
+      "replacement": "@y`"
+    },
+    {
+      "pattern": "ඤො",
+      "replacement": "@z`"
+    },
+    {
+      "pattern": "ධො",
+      "replacement": "@{`"
+    },
+    {
+      "pattern": "ථො",
+      "replacement": "@}`"
+    },
+    {
+      "pattern": "ෂේ",
+      "replacement": "@;~"
+    },
+    {
+      "pattern": "ඹේ",
+      "replacement": "@B|"
+    },
+    {
+      "pattern": "ඡේ",
+      "replacement": "@C~"
+    },
+    {
+      "pattern": "ඪේ",
+      "replacement": "@D~"
+    },
+    {
+      "pattern": "ඝේ",
+      "replacement": "@G~"
+    },
+    {
+      "pattern": "ඛේ",
+      "replacement": "@K|"
+    },
+    {
+      "pattern": "ළේ",
+      "replacement": "@L~"
+    },
+    {
+      "pattern": "ඟේ",
+      "replacement": "@M~"
+    },
+    {
+      "pattern": "ණේ",
+      "replacement": "@N~"
+    },
+    {
+      "pattern": "ඵේ",
+      "replacement": "@P~"
+    },
+    {
+      "pattern": "ඨේ",
+      "replacement": "@T~"
+    },
+    {
+      "pattern": "ඬේ",
+      "replacement": "@V|"
+    },
+    {
+      "pattern": "ශේ",
+      "replacement": "@X~"
+    },
+    {
+      "pattern": "ඥේ",
+      "replacement": "@Z~"
+    },
+    {
+      "pattern": "ඳේ",
+      "replacement": "@[~"
+    },
+    {
+      "pattern": "ක්‍ෂේ",
+      "replacement": "@]~"
+    },
+    {
+      "pattern": "බේ",
+      "replacement": "@b|"
+    },
+    {
+      "pattern": "චේ",
+      "replacement": "@c|"
+    },
+    {
+      "pattern": "ඩේ",
+      "replacement": "@d|"
+    },
+    {
+      "pattern": "ෆේ",
+      "replacement": "@f~"
+    },
+    {
+      "pattern": "ගේ",
+      "replacement": "@g~"
+    },
+    {
+      "pattern": "හේ",
+      "replacement": "@h~"
+    },
+    {
+      "pattern": "කේ",
+      "replacement": "@k~"
+    },
+    {
+      "pattern": "ලේ",
+      "replacement": "@l~"
+    },
+    {
+      "pattern": "මේ",
+      "replacement": "@m|"
+    },
+    {
+      "pattern": "නේ",
+      "replacement": "@n~"
+    },
+    {
+      "pattern": "පේ",
+      "replacement": "@p~"
+    },
+    {
+      "pattern": "දේ",
+      "replacement": "@q~"
+    },
+    {
+      "pattern": "රේ",
+      "replacement": "@r~"
+    },
+    {
+      "pattern": "සේ",
+      "replacement": "@s~"
+    },
+    {
+      "pattern": "ටේ",
+      "replacement": "@t|"
+    },
+    {
+      "pattern": "වේ",
+      "replacement": "@v|"
+    },
+    {
+      "pattern": "තේ",
+      "replacement": "@w~"
+    },
+    {
+      "pattern": "භේ",
+      "replacement": "@x~"
+    },
+    {
+      "pattern": "යේ",
+      "replacement": "@y~"
+    },
+    {
+      "pattern": "ඤේ",
+      "replacement": "@z~"
+    },
+    {
+      "pattern": "ජේ",
+      "replacement": "@j~"
+    },
+    {
+      "pattern": "ථේ",
+      "replacement": "@}~"
+    },
+    {
+      "pattern": "ධේ",
+      "replacement": "@{|"
+    },
+    {
+      "pattern": "ෂෙ",
+      "replacement": "@;"
+    },
+    {
+      "pattern": "ඹෙ",
+      "replacement": "@B"
+    },
+    {
+      "pattern": "ඓ",
+      "replacement": "@e"
+    },
+    {
+      "pattern": "ඡෙ",
+      "replacement": "@C"
+    },
+    {
+      "pattern": "ඪෙ",
+      "replacement": "@D"
+    },
+    {
+      "pattern": "ඝෙ",
+      "replacement": "@G"
+    },
+    {
+      "pattern": "ඛෙ",
+      "replacement": "@K"
+    },
+    {
+      "pattern": "ළෙ",
+      "replacement": "@L"
+    },
+    {
+      "pattern": "ඟෙ",
+      "replacement": "@M"
+    },
+    {
+      "pattern": "ණෙ",
+      "replacement": "@N"
+    },
+    {
+      "pattern": "ඵෙ",
+      "replacement": "@P"
+    },
+    {
+      "pattern": "ඨෙ",
+      "replacement": "@T"
+    },
+    {
+      "pattern": "ඬෙ",
+      "replacement": "@V"
+    },
+    {
+      "pattern": "ශෙ",
+      "replacement": "@X"
+    },
+    {
+      "pattern": "ඥෙ",
+      "replacement": "@Z"
+    },
+    {
+      "pattern": "ඳෙ",
+      "replacement": "@["
+    },
+    {
+      "pattern": "ක්‍ෂෙ",
+      "replacement": "@]"
+    },
+    {
+      "pattern": "බෙ",
+      "replacement": "@b"
+    },
+    {
+      "pattern": "චෙ",
+      "replacement": "@c"
+    },
+    {
+      "pattern": "ඩෙ",
+      "replacement": "@d"
+    },
+    {
+      "pattern": "ෆෙ",
+      "replacement": "@f"
+    },
+    {
+      "pattern": "ගෙ",
+      "replacement": "@g"
+    },
+    {
+      "pattern": "හෙ",
+      "replacement": "@h"
+    },
+    {
+      "pattern": "ජෙ",
+      "replacement": "@j"
+    },
+    {
+      "pattern": "කෙ",
+      "replacement": "@k"
+    },
+    {
+      "pattern": "ලෙ",
+      "replacement": "@l"
+    },
+    {
+      "pattern": "මෙ",
+      "replacement": "@m"
+    },
+    {
+      "pattern": "නෙ",
+      "replacement": "@n"
+    },
+    {
+      "pattern": "පෙ",
+      "replacement": "@p"
+    },
+    {
+      "pattern": "දෙ",
+      "replacement": "@q"
+    },
+    {
+      "pattern": "රෙ",
+      "replacement": "@r"
+    },
+    {
+      "pattern": "සෙ",
+      "replacement": "@s"
+    },
+    {
+      "pattern": "ටෙ",
+      "replacement": "@t"
+    },
+    {
+      "pattern": "වෙ",
+      "replacement": "@v"
+    },
+    {
+      "pattern": "තෙ",
+      "replacement": "@w"
+    },
+    {
+      "pattern": "භෙ",
+      "replacement": "@x"
+    },
+    {
+      "pattern": "යෙ",
+      "replacement": "@y"
+    },
+    {
+      "pattern": "ඤෙ",
+      "replacement": "@z"
+    },
+    {
+      "pattern": "ධෙ",
+      "replacement": "@{"
+    },
+    {
+      "pattern": "ථෙ",
+      "replacement": "@}"
+    },
+    {
+      "pattern": "්‍ය",
+      "replacement": "&"
+    },
+    {
+      "pattern": "්‍ර",
+      "replacement": "Y"
+    },
+    {
+      "pattern": "රු",
+      "replacement": "r#"
+    },
+    {
+      "pattern": "රූ",
+      "replacement": "r$"
+    },
+    {
+      "pattern": "ආ",
+      "replacement": "a`"
+    },
+    {
+      "pattern": "ඇ",
+      "replacement": "a#"
+    },
+    {
+      "pattern": "ඈ",
+      "replacement": "a$"
+    },
+    {
+      "pattern": "ඌ",
+      "replacement": "u_"
+    },
+    {
+      "pattern": "ඖ",
+      "replacement": "o_"
+    },
+    {
+      "pattern": "ඒ",
+      "replacement": "e~"
+    },
+    {
+      "pattern": "ඍ",
+      "replacement": "s^"
+    },
+    {
+      "pattern": "ඎ",
+      "replacement": " s^^"
+    },
+    {
+      "pattern": "ඓ",
+      "replacement": "@e"
+    },
+    {
+      "pattern": "ඕ",
+      "replacement": "o|"
+    },
+    {
+      "pattern": "බ්",
+      "replacement": "b|"
+    },
+    {
+      "pattern": "ච්",
+      "replacement": "c|"
+    },
+    {
+      "pattern": "ඩ්",
+      "replacement": "d|"
+    },
+    {
+      "pattern": "ම්",
+      "replacement": "m|"
+    },
+    {
+      "pattern": "ඕ",
+      "replacement": "o|"
+    },
+    {
+      "pattern": "ට්",
+      "replacement": "t|"
+    },
+    {
+      "pattern": "ව්",
+      "replacement": "v|"
+    },
+    {
+      "pattern": "ධ්",
+      "replacement": "{|"
+    },
+    {
+      "pattern": "ඛ්",
+      "replacement": "K||"
+    },
+    {
+      "pattern": "ඟු",
+      "replacement": "MO"
+    },
+    {
+      "pattern": "ශු",
+      "replacement": "XO"
+    },
+    {
+      "pattern": "ගු",
+      "replacement": "gO"
+    },
+    {
+      "pattern": "කු",
+      "replacement": "kO"
+    },
+    {
+      "pattern": "තු",
+      "replacement": "wO"
+    },
+    {
+      "pattern": "භු",
+      "replacement": "xO"
+    },
+    {
+      "pattern": "ඟූ",
+      "replacement": "MS"
+    },
+    {
+      "pattern": "ශූ",
+      "replacement": "XS"
+    },
+    {
+      "pattern": "ගූ",
+      "replacement": "gS"
+    },
+    {
+      "pattern": "කූ",
+      "replacement": "kS"
+    },
+    {
+      "pattern": "තූ",
+      "replacement": "wS"
+    },
+    {
+      "pattern": "භූ",
+      "replacement": "xS"
+    },
+    {
+      "pattern": "ළු",
+      "replacement": "U"
+    },
+    {
+      "pattern": "රැ",
+      "replacement": "rF"
+    },
+    {
+      "pattern": "රෑ",
+      "replacement": "rH"
+    },
+    {
+      "pattern": "එ",
+      "replacement": "e"
+    },
+    {
+      "pattern": "ෂ",
+      "replacement": ";"
+    },
+    {
+      "pattern": "ං",
+      "replacement": "A"
+    },
+    {
+      "pattern": "ඃ",
+      "replacement": ":"
+    },
+    {
+      "pattern": "ඹ",
+      "replacement": "B"
+    },
+    {
+      "pattern": "ඡ",
+      "replacement": "C"
+    },
+    {
+      "pattern": "ඪ",
+      "replacement": "D"
+    },
+    {
+      "pattern": "ඝ",
+      "replacement": "G"
+    },
+    {
+      "pattern": "ඊ",
+      "replacement": "I"
+    },
+    {
+      "pattern": "ඣ",
+      "replacement": "J"
+    },
+    {
+      "pattern": "ඛ",
+      "replacement": "K"
+    },
+    {
+      "pattern": "ළ",
+      "replacement": "L"
+    },
+    {
+      "pattern": "ඟ",
+      "replacement": "M"
+    },
+    {
+      "pattern": "ණ",
+      "replacement": "N"
+    },
+    {
+      "pattern": "ඵ",
+      "replacement": "P"
+    },
+    {
+      "pattern": "ඨ",
+      "replacement": "T"
+    },
+    {
+      "pattern": "ළු",
+      "replacement": "U"
+    },
+    {
+      "pattern": "ඬ",
+      "replacement": "V"
+    },
+    {
+      "pattern": "ශ",
+      "replacement": "X"
+    },
+    {
+      "pattern": "ඥ",
+      "replacement": "Z"
+    },
+    {
+      "pattern": "ඳ",
+      "replacement": "["
+    },
+    {
+      "pattern": "ක්‍ෂ",
+      "replacement": "]"
+    },
+    {
+      "pattern": "අ",
+      "replacement": "a"
+    },
+    {
+      "pattern": "බ",
+      "replacement": "b"
+    },
+    {
+      "pattern": "ච",
+      "replacement": "c"
+    },
+    {
+      "pattern": "ඩ",
+      "replacement": "d"
+    },
+    {
+      "pattern": "ඵ",
+      "replacement": "e"
+    },
+    {
+      "pattern": "ෆ",
+      "replacement": "f"
+    },
+    {
+      "pattern": "ග",
+      "replacement": "g"
+    },
+    {
+      "pattern": "හ",
+      "replacement": "h"
+    },
+    {
+      "pattern": "ඉ",
+      "replacement": "i"
+    },
+    {
+      "pattern": "ජ",
+      "replacement": "j"
+    },
+    {
+      "pattern": "ක",
+      "replacement": "k"
+    },
+    {
+      "pattern": "ල",
+      "replacement": "l"
+    },
+    {
+      "pattern": "ම",
+      "replacement": "m"
+    },
+    {
+      "pattern": "න",
+      "replacement": "n"
+    },
+    {
+      "pattern": "ඔ",
+      "replacement": "o"
+    },
+    {
+      "pattern": "ප",
+      "replacement": "p"
+    },
+    {
+      "pattern": "ද",
+      "replacement": "q"
+    },
+    {
+      "pattern": "ර",
+      "replacement": "r"
+    },
+    {
+      "pattern": "ස",
+      "replacement": "s"
+    },
+    {
+      "pattern": "ට",
+      "replacement": "t"
+    },
+    {
+      "pattern": "උ",
+      "replacement": "u"
+    },
+    {
+      "pattern": "ව",
+      "replacement": "v"
+    },
+    {
+      "pattern": "ත",
+      "replacement": "w"
+    },
+    {
+      "pattern": "භ",
+      "replacement": "x"
+    },
+    {
+      "pattern": "ය",
+      "replacement": "y"
+    },
+    {
+      "pattern": "ඤ",
+      "replacement": "z"
+    },
+    {
+      "pattern": "ධ",
+      "replacement": "{"
+    },
+    {
+      "pattern": "ථ",
+      "replacement": "}"
+    },
+    {
+      "pattern": "ෲ",
+      "replacement": "^^"
+    },
+    {
+      "pattern": "ැ",
+      "replacement": "#"
+    },
+    {
+      "pattern": "ෑ",
+      "replacement": "$"
+    },
+    {
+      "pattern": "ු",
+      "replacement": "E"
+    },
+    {
+      "pattern": "ූ",
+      "replacement": "R"
+    },
+    {
+      "pattern": "ි",
+      "replacement": "Q"
+    },
+    {
+      "pattern": "ී",
+      "replacement": "W"
+    },
+    {
+      "pattern": "ෘ",
+      "replacement": "^"
+    },
+    {
+      "pattern": "ෟ",
+      "replacement": "_"
+    },
+    {
+      "pattern": "ා",
+      "replacement": "`"
+    },
+    {
+      "pattern": "්",
+      "replacement": "~"
+    },
+    {
+      "pattern": "¶",
+      "replacement": ":"
+    }
+  ]
+}
